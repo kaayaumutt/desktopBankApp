@@ -1,6 +1,9 @@
 # desktopBankApp
 Small Test Project ( Python library in pyqt5,mysql connector,beautifulSoup... )
 
+----
+Preview;
+
 <img width="198" alt="1" src="https://user-images.githubusercontent.com/90245432/174801690-e018496c-8750-4990-aa68-552100880414.PNG">
 <img width="197" alt="2" src="https://user-images.githubusercontent.com/90245432/174801708-5715e653-51ab-46ab-be43-9eb0030bdec8.PNG">
 <img width="552" alt="3" src="https://user-images.githubusercontent.com/90245432/174801731-490101c9-5da7-48f6-aa5b-35f19c3cd603.PNG">
