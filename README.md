@@ -1,5 +1,5 @@
 # desktopBankApp
-Small Test Project ( Python library in pyqt5,mysql connector,BeautifulSoup... )
+Small Test Project ( Python library in pyqt5,mysql connector,beautifulSoup... )
 
 <img width="198" alt="1" src="https://user-images.githubusercontent.com/90245432/174801690-e018496c-8750-4990-aa68-552100880414.PNG">
 <img width="197" alt="2" src="https://user-images.githubusercontent.com/90245432/174801708-5715e653-51ab-46ab-be43-9eb0030bdec8.PNG">
